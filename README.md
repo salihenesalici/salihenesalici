@@ -1,16 +1,23 @@
-### Hi there 👋
+ [![MasterHead](https://data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0HBwcHBwoIBwcHBhYHBwcHCA8ICQYWFBEWFhURHxUYHCggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg0NDzcZHxkrKysrKysrKzcrKysrKysrKysrKy03LS0rKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAwECBQQH/8QAFhABAQEAAAAAAAAAAAAAAAAAABIR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAEEAwL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A/bBmiq0YA0YA0Y0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE9bqemvUeapprjTSFd6a41ukWu9NcaaQrvTXGt0hXWt1xpqQrvTXGmkK70ca3SFdDnTSK6HOmkHTXOmkHQ501IOhzrdINGaaDRmgNGANGANGNAAB8lNpLSnaOVV01LW6kKrpqWmkWq6anpRCq6alTaIVTTU6KSFV01OiiLVKbqVNohVNNT00hVNbqempCqaanppCqa3U9NItU01PTSFU01xppCu9bqdN1IV3prjTSFd6a41ukWu9NcaaQrvTXGt0hXn0UlRTvGerUUlRRCq02kabRFqtFJUUQq1FJUUkKrTaSooi1WikqbRCq6alRSQqut1KiiFV01Km0RarpSVFEKrTaSopIVWik6KIVWikqbRFqlNpLTSFV01LW6kKrpqWmkWq6anpRCq6alTaIV5tFJUU0xmqtNpGm0kKrTaRptEKrRSVFEWrUUlRSQqtNpGm0QqtNpGiiLVqKSopIVaikabRCq02kabRFqtFJUUQq1FJUUkKtRSNNoi1Wm0jTaIVWikqKSFWopKiiFVptI02iLVaKSoohVqKSopIV5tFJUU1Rmq1FJUUkKrRSVNohVaKSooi1aikqKSFVptI02iFVopKjSFWopKiiLVabSVFJCq02kabRCq0UlRRFq1FJUUkKrTaRptEKrRSVFEWrUUlRRCrUUjTaSFVptI02iFVopKiiLVqKSopIV52mp6a0xmqlNpPTSLVKKT1ukKpRSempCqU2ktNIVWjU9NItV01LW6QqlFJ6akKrRSVNohVKbSVFEWq02kqKSFVopKm0QqlNpKjSFVo1PTSLVaKSoohVqKSopIVWm0jTaIVWikqbRFqtFJUUkK+HTXI7uDvTXGmg701xrdIV1prnTSFd6a400hXemuNbpFrvSnGmkK701xpqQqmmuNNIV3rdT00hVNNT00i1TTXGmkKppqempCqa3U9KIVTTU9NIVSm0nppFqlFJ63SFUopPTUhVKbqWmkKgA6PAAAAAAAAAAAAAABpoAa3WAN01gDdNYA3W65Adaa5Adaa5EHemuNNB3prjW6QrrW6400hXemuNNItYAqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/2Q==)
+<h1 align="center">Hi 👋, I'm Salih Enes ALICI</h1>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<!--
-**salihenesalici/salihenesalici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **React,Js**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **react,vue**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **enesalici.tr@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salihenesalici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihenesalici" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihenesalici&show_icons=true&locale=en&layout=compact" alt="salihenesalici" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihenesalici&show_icons=true&locale=en" alt="salihenesalici" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihenesalici&" alt="salihenesalici" /></p>
